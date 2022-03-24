@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: 'Bai Jamjuree Bold';
+    src: url('../fonts/BaiJamjuree-Bold.eot');
+    src: url('../fonts/BaiJamjuree-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BaiJamjuree-Bold.woff2') format('woff2'),
+        url('../fonts/BaiJamjuree-Bold.woff') format('woff'),
+        url('../fonts/BaiJamjuree-Bold.ttf') format('truetype'),
+        url('../fonts/BaiJamjuree-Bold.svg#BaiJamjuree-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bai Jamjuree';
+    src: url('../fonts/BaiJamjuree-Light.eot');
+    src: url('../fonts/BaiJamjuree-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BaiJamjuree-Light.woff2') format('woff2'),
+        url('../fonts/BaiJamjuree-Light.woff') format('woff'),
+        url('../fonts/BaiJamjuree-Light.ttf') format('truetype'),
+        url('../fonts/BaiJamjuree-Light.svg#BaiJamjuree-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}

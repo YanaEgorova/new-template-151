@@ -151,6 +151,7 @@ body.error-active .error__overlay {
 .logo {
   font-size: 1.6rem;
   font-family: var(--title-font);
+  z-index: 3;
 }
 
 /* LOGO HOVER END */

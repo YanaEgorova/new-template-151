@@ -118,5 +118,13 @@ body.open-menu {
         justify-content: space-between;
         width: 100%;
     }
+
+
+    .hero__wrapper-main .cart__btn svg {
+    fill:#fff;
+}
+.hero__wrapper-main .cart__btn .cart__span {
+    color: #fff;
+}
    
 }

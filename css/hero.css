@@ -37,7 +37,7 @@
 .hero .title span {
     color: var(--second-brand-color);
     font-family: var(--title-font);
-    font-size: 8.5rem;
+    font-size: 5rem;
     display: block;
 }
 .hero__img-box {
@@ -175,7 +175,7 @@
         width: 40rem;
         height: 40rem;
         border: 7rem solid #fff;
-        opacity: .4;
+        opacity: .2;
         bottom: 10%;
         z-index: 3;
     }
@@ -192,9 +192,13 @@
         padding: 30rem 15rem 20rem;
         text-align: left;
     }
-    .hero .title span {
+    .hero .title span{
         color: var(--sub-text-color);
-        font-size: 9rem;
+        max-width: 50rem;
+    }
+     .hero .text {
+        color: var(--sub-text-color);
+        max-width: 40rem;
     }
     .hero .btn {
         border-color: var(--sub-text-color);
